@@ -1,6 +1,6 @@
-# misterycall
+# Bootstrap Vue-JS
 
-> Mistery call
+> Bootstrap Vue-JS
 
 ## Build Setup
 
